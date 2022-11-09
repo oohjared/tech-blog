@@ -1,3 +1,3 @@
-[submoduele "tech-blog"]
+[submodule "tech-blog"]
 path = tech-blog
 url = https://github.com/oohjared/tech-blog.git
